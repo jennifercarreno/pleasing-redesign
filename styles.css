@@ -1,0 +1,21 @@
+.nav-link {
+    color:lightpink;
+}
+
+.navbar-brand {
+    color: lightpink;
+}
+
+.btn {
+    background-color: lightpink;
+    color: white;
+}
+
+.jumbotron {
+    background-color:rgb(236, 245, 246);
+    
+}
+
+.card {
+    border: none;
+}
