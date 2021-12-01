@@ -47,3 +47,25 @@
 #home-hero-container {
     background-color: white;
 }
+
+a:hover:not(.nav-link):not(.btn) {
+    color: rgb(236, 245, 246);
+}
+
+.nav-link:hover {
+    background-color: rgb(236, 245, 246);
+    color: black;
+}
+
+.btn:hover {
+    background-color: rgb(236, 245, 246);
+    color: black;
+}
+
+.socials {
+    color: lightpink;
+}
+
+.socials:hover {
+    color: rgb(236, 245, 246);
+}
