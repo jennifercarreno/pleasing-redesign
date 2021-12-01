@@ -43,3 +43,7 @@
     height: 80vh;
     background-size: cover;
 }
+
+#home-hero-container {
+    background-color: white;
+}
